@@ -17,7 +17,7 @@ function Header(){
                 <img src={imgLogo} alt="logo bolos julia"/>
                 <nav>
                     <Link to={"/"}>Home</Link>
-                    <Link to={"/cadastro/bolos"}>Cadastrar</Link>
+                    <Link to={"/cadastra/bolos"}>Cadastrar</Link>
                     <Link to={"/lista/Bolo"}>Bolos</Link>
                 </nav>
             </div>

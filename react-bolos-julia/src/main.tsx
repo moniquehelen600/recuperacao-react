@@ -26,7 +26,7 @@ ReactDOM.createRoot(document.getElementById('root')!).render(
 
       <Routes>{/*2 */}
         <Route path='/'element ={<Home/>}/> {/* pagina principal */}
-        <Route path='/cadastro/Bolo'element ={<CadastroBolo/>}/> {/* pagina principal */}
+        <Route path='/cadastra/Bolo'element ={<CadastroBolo/>}/> {/* pagina principal */}
         <Route path='/lista/Bolo'element ={<ListaBolo/>}/>
       </Routes>
 
